@@ -1,0 +1,27 @@
+{
+  "name": "bmcmahen-modifier",
+  "version": "1.0.0",
+  "description": "determine if a modifier key was pressed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmcmahen/modifier.git"
+  },
+  "keywords": [
+    "modifier",
+    "keydown",
+    "keypress",
+    "input",
+    "keyboard",
+    "event"
+  ],
+  "author": "Ben McMahen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmcmahen/modifier/issues"
+  },
+  "homepage": "https://github.com/bmcmahen/modifier"
+}
